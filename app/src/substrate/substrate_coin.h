@@ -63,10 +63,10 @@ typedef enum {
 
 #define COIN_SECRET_REQUIRED_CLICKS 10
 
-#define MENU_MAIN_APP_LINE1 "Polkadot"
+#define MENU_MAIN_APP_LINE1 "Peer"
 #define MENU_MAIN_APP_LINE2 "Ready"
 #define MENU_MAIN_APP_LINE2_SECRET "DOT RECOVERY"
-#define APPVERSION_LINE1 "Polkadot"
+#define APPVERSION_LINE1 "Peer"
 #define APPVERSION_LINE2 "v" APPVERSION
 
 #ifdef __cplusplus
